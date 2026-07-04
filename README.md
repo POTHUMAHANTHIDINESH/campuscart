@@ -3,7 +3,7 @@
 A campus marketplace app for students to buy and sell books, notes,
 electronics, hostel items, cycles, and more with each other.
 
-Built by a student at NIT Srinagar.
+Built for students at NIT Srinagar.
 
 ## Features
 
